@@ -36,7 +36,7 @@ zokou(
 
       // Prepare the repo message with consistent styling
       const infoMsg = `
-𝐓𝐎𝐗𝐈𝐂-𝐌𝐃
+      BWB-X𝐌𝐃
 
 ◈━━━━━━━━━━━━━━━━◈
 │❒ Yo ${nomAuteurMessage}, here’s the 411 on BWB XMD’s repo! 📦
