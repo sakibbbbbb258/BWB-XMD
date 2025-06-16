@@ -1,6 +1,6 @@
 
 {
-    "bot-name": "CHARLESKE-XMD_BOT",
+    "bot-name": "BWB-XMD_BOT",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Charleskenya1",
     "logo": "https://files.catbox.moe/z62ts0.jpg",
     "keywords": ["bot"],
