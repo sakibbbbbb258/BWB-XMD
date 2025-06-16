@@ -39,15 +39,15 @@ zokou(
 𝐓𝐎𝐗𝐈𝐂-𝐌𝐃
 
 ◈━━━━━━━━━━━━━━━━◈
-│❒ Yo ${nomAuteurMessage}, here’s the 411 on 𝔗𝔬𝔵𝔦𝔠 𝔐𝔇’s repo! 📦
-│❒ *🔗 𝐆𝐢𝐭𝐇𝐮𝐛*: https://github.com/xhclintohn/Toxic-MD/fork
-│❒ *📩 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐆𝐫𝐨𝐮𝐩*: https://chat.whatsapp.com/GoXKLVJgTAAC3556FXkfFI
+│❒ Yo ${nomAuteurMessage}, here’s the 411 on BWB XMD’s repo! 📦
+│❒ *🔗 𝐆𝐢𝐭𝐇𝐮𝐛*:https://github.com/PRINCETECH19/BWB-XMD_ /fork
+│❒ *📩 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 channel*: https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
 │❒ *💾 𝐑𝐀𝐌 𝐔𝐬𝐚𝐠𝐞*: ${format(os.totalmem() - os.freemem())} / ${format(os.totalmem())}
-│❒ *👑 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫*: 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧
+│❒ *👑 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫*: PRINCE TECH
 │❒ *🌐 𝐌𝐨𝐝𝐞*: ${mode}
 │❒ *📅 𝐃𝐚𝐭𝐞*: ${date}
 │❒ *⏰ 𝐓𝐢𝐦𝐞 (GMT)*: ${time}
-│❒ Powered by xh_clinton
+│❒ Powered by PRINCE TECH
 ◈━━━━━━━━━━━━━━━━◈
       `;
 
@@ -62,14 +62,14 @@ zokou(
             {
               video: { url: lien },
               caption: infoMsg,
-              footer: `Hey ${nomAuteurMessage}! I'm Toxic-MD, created by 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧 😎`,
+              footer: `Hey ${nomAuteurMessage}! I'm BWB-XMD, created by PRINCE 😎`,
               gifPlayback: true,
             },
             { quoted: ms }
           );
         } catch (e) {
           console.error("Video sending error:", e);
-          await repondre(`𝐓𝐎𝐗𝐈𝐂-𝐌𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ Yo ${nomAuteurMessage}, 𝔗𝔬𝔵𝔦𝔠 𝔐𝔇 fumbled the video send: ${e.message} 😡 Here’s the repo info anyway! 😣\n${infoMsg}\n◈━━━━━━━━━━━━━━━━◈`);
+          await repondre(`BWB-X𝐌𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ Yo ${nomAuteurMessage}, BWB XMD fumbled the video send: ${e.message} 😡 Here’s the repo info anyway! 😣\n${infoMsg}\n◈━━━━━━━━━━━━━━━━◈`);
         }
       }
       // Send the message with an image if the URL is an image (jpeg, png, jpg)
@@ -80,13 +80,13 @@ zokou(
             {
               image: { url: lien },
               caption: infoMsg,
-              footer: `Hey ${nomAuteurMessage}! I'm Toxic-MD, created by 𝐱𝐡_�{c𝐥𝐢𝐧𝐭𝐨𝐧 😎`,
+              footer: `Hey ${nomAuteurMessage}! I'm BWB XMD, created by PRINCE TECH  🇹🇿`,
             },
             { quoted: ms }
           );
         } catch (e) {
           console.error("Image sending error:", e);
-          await repondre(`𝐓𝐎𝐗𝐈𝐂-𝐌𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ Yo ${nomAuteurMessage}, 𝔗𝔬𝔵𝔦𝔠 𝔐𝔇 botched the image send: ${e.message} 😡 Here’s the repo info anyway! 😣\n${infoMsg}\n◈━━━━━━━━━━━━━━━━◈`);
+          await repondre(`BWB-X𝐌𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ Yo ${nomAuteurMessage}, BWB XMD botched the image send: ${e.message} 😡 Here’s the repo info anyway! 😣\n${infoMsg}\n◈━━━━━━━━━━━━━━━━◈`);
         }
       }
       // Fallback to text-only message if no valid media is provided
@@ -95,7 +95,7 @@ zokou(
       }
     } catch (e) {
       console.error("Error in repo command:", e);
-      await repondre(`𝐓𝐎𝐗𝐈𝐂-M𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ TOTAL BUST, ${nomAuteurMessage}! 𝔗𝔬𝔵𝔦𝔠 𝔐𝔇 crashed while fetching repo info: ${e.message} 😡 Try again or flop! 😣\n◈━━━━━━━━━━━━━━━━◈`);
+      await repondre(`BWB-XM𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ TOTAL BUST, ${nomAuteurMessage}! BWB XMD crashed while fetching repo info: ${e.message} 😡 Try again or flop! 😣\n◈━━━━━━━━━━━━━━━━◈`);
     }
   }
 );
