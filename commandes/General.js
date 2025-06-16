@@ -55,9 +55,9 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Charleske", numero: "254759626063" },
-      { nom: "᚛Ibrahim᚜", numero: "254710772666" },
-      { nom: "BELTAH TECH", numero: "254114141192" },
+      { nom: "prince", numero: "255763834140" },
+      { nom: "bwb", numero: "255614545735" },
+      { nom: "HAVEN TECH", numero: "255614545735" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
@@ -95,7 +95,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING CHARLESKE-XMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[ https://https://whatsapp.com/channel/0029Vao2hgeChq6HJ5bmlZ3K ] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[ https://https://chat.whatsapp.com/EFh0BWKa0Uf92A7RgBwpuu ] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://youtube.com/@charles_odhiambo_official?si=n6lKIy2ViQauVS_n] \n\n\n𝑪𝒓𝒆ated by ®Charles ke") 
+  repondre("THANK YOU FOR CHOOSING BWB-XMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[ https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610 ] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[ https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610 ] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://youtube.com/@Prince_tech_official?si=n6lKIy2ViQauVS_n] \n\n\n𝑪𝒓𝒆ated by prince tech") 
   await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING CHARLESKE-XMD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
