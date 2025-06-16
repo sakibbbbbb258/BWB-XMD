@@ -3,7 +3,7 @@ const { zokou } = require("../framework/zokou");
 zokou({
   nomCom: "blocklist",
   aliases: ["listblock", "blacklist"],
-  reaction: '☘️',
+  reaction: '⚔️',
   categorie: "search"
 }, async (dest, zk, commandeOptions) => {
   const { repondre } = commandeOptions;
