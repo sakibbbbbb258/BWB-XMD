@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session*
   
- https://charle-ke.onrender.com
+ https://b-w-b-session-id.onrender.com
 
  
  *STEPS TO GET SESSION*
@@ -46,14 +46,14 @@ const date = moment().format('DD/MM/YYYY');
  2. Enter your whatsapp number with your country code eg : 254,144. And tap submit
  3. Charleske-vmd  will sent you a code. Copy that code. Then whatsapp will sent Notification
  4. Tap on that notification then enter in the code that Charleske tech sent you.
- 5. It will load for sometime then Charleske tech will sent A long session to your inbox on whatsapp at your own number
+ 5. It will load for sometime then bwb xmd will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
  🫂🫂🫂
  `;
     
 let menuMsg = `
-> Made by : ®Charleske
+> Made by : princetech 
 `;
 
    var lien = mybotpic();
@@ -125,22 +125,22 @@ const date = moment().format('DD/MM/YYYY');
    * IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Charleskenya1/CHARLESKE
+> https://github.com/PRINCETECH19/BWB-XMD_
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vao2hgeChq6HJ5bmlZ3K
+> https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
 
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/Charleskenya1/CHARLESKE
+> https://github.com/PRINCETECH19/BWB-XMD_
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Charleske*
+│❒⁠⁠⁠⁠ *DEV* : *bwbxmd*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-  CHARLESKE VMD
+  BWB XMD
 
 ❒────────────────────❒`;
 
