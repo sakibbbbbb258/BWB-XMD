@@ -27,7 +27,7 @@ async function uploadToCatbox(filePath) {
 }
 // Define the command with aliases for play
 zokou({
-  nomCom: "play1",
+  nomCom: "play",
   aliases: ["song", "playdoc", "audio", "mp3"],
   categorie: "download",
   reaction: "🔊"
@@ -107,7 +107,7 @@ zokou({
         },
       },
       {
-      caption: `\n*CHARLESKE-XMD*\n
+      caption: `\n*BWB-XMD*\n
 `,
         document: { url: downloadUrl },
         mimetype: 'audio/mpeg',
@@ -218,7 +218,7 @@ zokou({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*CHARLESKE-XMD*\n
+      caption: `\n*BWB-XMD*\n
 `,
         video: { url: downloadUrl },
         mimetype: 'video/mp4',
@@ -235,10 +235,10 @@ zokou({
         },
       },
       {
-      caption: `\n*CHARLESKE-MUSIC HUB*\n
+      caption: `\n*BWB-MUSIC HUB*\n
 
 
-> 💙POWERED BY ®charleske ❎`,
+> 💙POWERED BY PRINCE XMD ❎`,
         document: { url: downloadUrl },
         mimetype: 'video/mp4',
         contextInfo: {
