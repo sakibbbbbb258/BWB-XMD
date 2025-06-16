@@ -25,10 +25,10 @@ zokou({ nomCom: "videostyle", categorie: "search", reaction: "✋" }, async (des
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "CHARLESKE XMD",
-        body: "Regards, ®Charleske",
-        thumbnailUrl: "https://files.catbox.moe/p6uxq0.png",
-        sourceUrl: "https://whatsapp.com/channel/0029Vao2hgeChq6HJ5bmlZ3K/",
+        title: "BWB XMD",
+        body: "Regards, BWB",
+        thumbnailUrl: "https://files.catbox.moe/ygvlzy.jpg",
+        sourceUrl: "https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610/",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
@@ -77,7 +77,7 @@ zokou({ nomCom: "videostyle", categorie: "search", reaction: "✋" }, async (des
           await zk.sendMessage(dest, {
             video: { url: logoUrl },
             mimetype: "video/mp4",
-            caption: `*Downloaded by CHARLESKE-𝐗𝐌𝐃*`,
+            caption: `*Downloaded by BWB-𝐗𝐌𝐃*`,
           }, { quoted: ms });
         }
       }
