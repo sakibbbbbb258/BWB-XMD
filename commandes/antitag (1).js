@@ -6,7 +6,7 @@ const antiTagStatus = new Map();
 zokou({
   nomCom: "antitag",
   categorie: "Group",
-  reaction: "⚠️",
+  reaction: "😒",
   fromMe: true, // Only works when used by admin/owner
   desc: "Protect owner from being tagged in groups"
 }, async (dest, zk, commandeOptions) => {
