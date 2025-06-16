@@ -206,7 +206,7 @@ zokou({
     });
 
     // Notify success
-    await repondre(`*✅ The variable ${key} = ${value} has been set successfully. The bot is restarting...*`);
+    await repondre(`*🌐 The variable ${key} = ${value} has been set successfully. The bot is restarting...*`);
   } catch (error) {
     console.error('Error setting config variable:', error);
     await repondre(`❌ There was an error setting the variable. Please try again later.\n${error.message}`);
