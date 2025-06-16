@@ -16,19 +16,19 @@ zokou(
       console.log('DEBUG - xxxvideo triggered:', { arg, nomAuteurMessage, superUser });
 
       if (!superUser) {
-        return repondre(`CHARLESKE XMD\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ BACK OFF, ${nomAuteurMessage}! Only mods can hit this command, punk! 😎\n◈━━━━━━━━━━━━━━━━◈`);
+        return repondre(`BWB XMD\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ BACK OFF, ${nomAuteurMessage}! Only mods can hit this command, punk! 😎\n◈━━━━━━━━━━━━━━━━◈`);
       }
 
       if (!arg[0]) {
-        return repondre(`CHARLESKE XMD\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ WAKE UP, ${nomAuteurMessage}! Give me a valid xnxx.health or xvideos.com URL! 😤\n◈━━━━━━━━━━━━━━━━◈`);
+        return repondre(`BWB XMD\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ WAKE UP, ${nomAuteurMessage}! Give me a valid xnxx.health or xvideos.com URL! 😤\n◈━━━━━━━━━━━━━━━━◈`);
       }
 
       const videoUrl = arg.join(' ').trim();
       if (!videoUrl.match(/^(https:\/\/www\.xnxx\.health\/|https:\/\/www\.xvideos\.com\/)/)) {
-        return repondre(`CHARLESKE XMD\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ TRASH INPUT, ${nomAuteurMessage}! URL must be from xnxx.health or xvideos.com! 😣\n◈━━━━━━━━━━━━━━━━◈`);
+        return repondre(`BWB XMD\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ TRASH INPUT, ${nomAuteurMessage}! URL must be from xnxx.health or xvideos.com! 😣\n◈━━━━━━━━━━━━━━━━◈`);
       }
 
-      await repondre(`CHARLESKE XMD\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ Yo ${nomAuteurMessage}, snagging your video link, don’t blink! 🔍\n◈━━━━━━━━━━━━━━━━◈`);
+      await repondre(`BWB XMD\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ Yo ${nomAuteurMessage}, snagging your video link, don’t blink! 🔍\n◈━━━━━━━━━━━━━━━━◈`);
 
       // Try API 1 (xnxxdl)
       let data, downloadUrl, title;
@@ -67,15 +67,15 @@ zokou(
       await zk.sendMessage(
         dest,
         {
-          text: `CHARLESKE\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ NAILED IT, ${nomAuteurMessage}! Your video is READY! 🔥\n│❒ Title: ${title}\n│❒ Download: ${downloadUrl}\n│❒ Powered by DML-TECH\n◈━━━━━━━━━━━━━━━━◈`,
-          footer: `Hey ${nomAuteurMessage}! I'm charleske-Tech, created by CHARLESKE-TECH 😎`,
+          text: `BWB\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ NAILED IT, ${nomAuteurMessage}! Your video is READY! 🔥\n│❒ Title: ${title}\n│❒ Download: ${downloadUrl}\n│❒ Powered by DML-TECH\n◈━━━━━━━━━━━━━━━━◈`,
+          footer: `Hey ${nomAuteurMessage}! I'm bwb-xmd, created by PRINCE-TECH 😎`,
         },
         { quoted: ms }
       );
 
     } catch (e) {
       console.error('xxxvideo error:', e);
-      await repondre(`CHARLESKE\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ CRASH AND BURN, ${nomAuteurMessage}! Something broke: ${e.message} 😡 Fix it or scram!\n◈━━━━━━━━━━━━━━━━◈`);
+      await repondre(`BWB\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ CRASH AND BURN, ${nomAuteurMessage}! Something broke: ${e.message} 😡 Fix it or scram!\n◈━━━━━━━━━━━━━━━━◈`);
     }
   }
 );
