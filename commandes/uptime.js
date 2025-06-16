@@ -36,7 +36,7 @@ zokou({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363351653122969@newsletter",
-          'newsletterName': "CHARLESKE-XMD",
+          'newsletterName': "BWB-XMD",
           'serverMessageId': 0x8f
         },
         'forwardingScore': 0x3e7,
