@@ -3,7 +3,7 @@ const axios = require("axios");
 
 zokou({
   nomCom: "lyrics",
-  reaction: '✨',
+  reaction: '😁',
   categorie: "Search"
 }, async (messageId, chatId, { repondre, arg, ms }) => {
   try {
