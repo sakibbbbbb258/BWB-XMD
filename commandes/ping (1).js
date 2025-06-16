@@ -44,7 +44,7 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
               serverMessageId: 143},
         externalAdReply: {
           
-          title: "Follow for updates ",
+          title: " ",
       body: "Enjoy...",
       thumbnailUrl: conf.URL,
           sourceUrl: conf.GURL,
@@ -55,7 +55,7 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
     }, { quoted: ms });
 
     await zk.sendMessage(dest, {
-        text: "```Testing ping..✓```"
+        text: "```BWB IS STIL LIVE.✓```"
     } ,{ quoted: ms });// Voice note form
     }catch (e) {
         console.log("❌ Ping Command Error: " + e);
