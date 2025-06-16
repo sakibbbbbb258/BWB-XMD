@@ -90,7 +90,7 @@ zokou({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*CHARLESKE-XMD*\n
+      caption: `\n*BWB-XMD*\n
 `,
         audio: { url: downloadUrl },
         mimetype: 'audio/mp4',
@@ -124,7 +124,7 @@ zokou({
         },
       },
       {
-      caption: `\n*CHARLESKE-XMD*\n
+      caption: `\n*BWB-XMD*\n
 `,
         document: { url: downloadUrl },
         mimetype: 'audio/mp4',
