@@ -154,7 +154,7 @@ mediamsg = msgRepondu.videoMessage
             pack: pack,
             
             type: StickerTypes.CROPPED,
-            categories: ["🤩", "🎉"],
+            categories: ["😀", "🎉"],
             id: "12345",
             quality: 70,
             background: "transparent",
