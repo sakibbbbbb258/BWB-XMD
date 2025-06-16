@@ -39,3 +39,4 @@ async function tagAllCommand(sock, chatId, senderId) {
 }
 
 module.exports = tagAllCommand;  // Export directly
+.
