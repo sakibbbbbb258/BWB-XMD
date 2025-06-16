@@ -35,7 +35,7 @@ zokou({
       'contextInfo': {
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
-          'newsletterJid': "120363351653122969@newsletter",
+          'newsletterJid': "120363398106360290@newsletter",
           'newsletterName': "BWB-XMD",
           'serverMessageId': 0x8f
         },
