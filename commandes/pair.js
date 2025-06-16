@@ -3,7 +3,7 @@ const {
 } = require('../framework/zokou');
 const axios = require('axios');
 zokou({
-  nomCom: "pair1",
+  nomCom: "pair",
   aliases: ["session", "code", "paircode", "qrcode"],
   reaction: '☘️',
   categorie: 'system'
@@ -19,7 +19,7 @@ zokou({
   try {
     // Notify user that pairing is in progress
 
-    await repondre("Charleske-xmd is generating your pairing code ✅...");
+    await repondre("bwb xmd is generating your pairing code ✅...");
 
     // Prepare the API request
     const encodedNumber = encodeURIComponent(arg.join(" "));
@@ -33,18 +33,18 @@ zokou({
         contextInfo: {
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '@newsletter',
-            newsletterName: "Charleske-xmd",
+            newsletterJid: '120363398106360290@newsletter',
+            newsletterName: "bwb-xmd",
             serverMessageId: 143
           },
           forwardingScore: 999,
           // Score to indicate it has been forwarded
           externalAdReply: {
-            title: "Charleske xmd",
+            title: "bwb xmd",
             body: "Here is your pairing code",
-            thumbnailUrl: 'https://files.catbox.moe/p6uxq0.png',
+            thumbnailUrl: 'https://files.catbox.moe/ygvlzy.jpg',
             // Add thumbnail URL if required 
-            sourceUrl: 'https://whatsapp.com/channel/0029Vao2hgeChq6HJ5bmlZ3K',
+            sourceUrl: 'https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610',
             // Add source URL if necessary
             mediaType: 1,
             renderLargerThumbnail: true
