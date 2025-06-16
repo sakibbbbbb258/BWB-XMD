@@ -3,13 +3,13 @@ const moment = require("moment-timezone");
 const { zokou } = require(__dirname + "/../framework/zokou");
 
 // Use your WhatsApp channel JID here
-const CHANNEL_JID = "https://whatsapp.com/channel/0029Vao2hgeChq6HJ5bmlZ3K"; // Example for WhatsApp JID
+const CHANNEL_JID = "https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610"; // Example for WhatsApp JID
 
 const formatNumber = (num) => num.toLocaleString();
 
 const fetchGitHubRepoDetails = async () => {
     try {
-        const repo = 'Charleskenya1/CHARLESKE-XMD';
+        const repo = 'PRINCETECH19/BWB-XMD_';
         const response = await axios.get(`https://api.github.com/repos/${repo}`);
         const { name, description, forks_count, stargazers_count, watchers_count, open_issues_count, owner, license } = response.data;
         return {
@@ -65,7 +65,7 @@ commands.forEach((command) => {
         try {
             // NO IMAGE: Only send text/caption messages
             await zk.sendMessage(dest, {
-                text: `✨ Repository Highlights ✨\n\n🛠️ Developed by *Charleske  ke*\n📢 Stay updated\nChannel JID: ${CHANNEL_JID}\n\nRepo Url\n${url}`,
+                text: `✨ Repository Highlights ✨\n\n🛠️ Developed by *princetech  *\n📢 Stay updated\nChannel JID: ${CHANNEL_JID}\n\nRepo Url\n${url}`,
             });
 
             await zk.sendMessage(dest, { text: infoMessage });
