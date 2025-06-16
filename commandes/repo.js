@@ -40,7 +40,7 @@ zokou(
 
 ◈━━━━━━━━━━━━━━━━◈
 │❒ Yo ${nomAuteurMessage}, here’s the 411 on BWB XMD’s repo! 📦
-│❒ *🔗 𝐆𝐢𝐭𝐇𝐮𝐛*:https://github.com/PRINCETECH19/BWB-XMD_ /fork
+│❒ *🔗 𝐆𝐢𝐭𝐇𝐮𝐛*:https://github.com/PRINCETECH19/BWB-XMD_/fork
 │❒ *📩 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 channel*: https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
 │❒ *💾 𝐑𝐀𝐌 𝐔𝐬𝐚𝐠𝐞*: ${format(os.totalmem() - os.freemem())} / ${format(os.totalmem())}
 │❒ *👑 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫*: PRINCE TECH
