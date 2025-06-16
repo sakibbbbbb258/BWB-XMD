@@ -43,7 +43,7 @@ zokou({
         'externalAdReply': {
           'title': "Bot Runtime",
           'body': " Uptime: " + runtime(process.uptime()),
-          'thumbnailUrl': "https://files.catbox.moe/s7fpqq.jpg",
+          'thumbnailUrl': "https://files.catbox.moe/ygvlzy.jpg",
           'sourceUrl': "",
           'mediaType': 0x1,
           'renderLargerThumbnail': true
