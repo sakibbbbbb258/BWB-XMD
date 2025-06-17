@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/DEPLOY RENDER-render?style=for-the-badge&logo=render&logoColor=dark" width="220" height="38.45" />
   </a>
     
-  ## 🔵DELOY TALKDROVE
+  ## 🔵DEPLOY TALKDROVE
 
   <p align="center">
   <a href="https://host.talkdrove.com/auth/signup?ref=7D90F312)">
@@ -44,3 +44,9 @@
 
 - **Koyeb:**  
   [![Click Here](https://img.shields.io/badge/âž¤Click-Here-green.svg)](https://koyeb.com)
+
+
+
+  <p align="center">
+  <a href="https://koyeb.com)">
+    <img src="https://img.shields.io/badge/DEPLOY KOYEB-koyeb?style=for-the-badge&logo=koyeb&logoColor=green" width="220" height="38.45" 
