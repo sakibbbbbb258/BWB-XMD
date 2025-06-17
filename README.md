@@ -19,3 +19,10 @@
   <a href="https://github.com/PRINCETECH19/BWB-XMD_">
     <img src="https://img.shields.io/badge/DEPLOY NOW-blue?style=for-the-badge&logo=heroku&logoColor=red" width="220" height="38.45" />
   </a> 
+
+  ### DEPLOY RAILWAY
+  <p align="center">
+  <a href="https://railway.com?referralCode=usJR_h">
+    <img src="https://img.shields.io/badge/DEPLOY NOW-railway?style=for-the-badge&logo=railway&logoColor=blue" width="220" height="38.45" />
+  </a>
+  
