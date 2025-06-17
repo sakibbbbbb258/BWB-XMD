@@ -47,7 +47,9 @@
 
  
 - ## ToyStack:**  
-  [![Click Here](https://img.shields.io/badge/âž¤Click-Here-white.svg)](https://toystack.ai)
+  [![Click Here](https://img.shields.io/badge/Click-Here-white.svg)](https://toystack.ai)
 
 ## Koyeb:**  
-  [![Click Here](https://img.shields.io/badge/âž¤Click-Here-green.svg)](https://koyeb.com)
+  [![Click Here](https://img.shields.io/badge/Click-Here-green.svg)](https://koyeb.com)
+
+## PRINCE C.E.O OF PRINCE XMD AND BWB XMD.HAVEN TECH.LOFT XMD.
