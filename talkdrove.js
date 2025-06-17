@@ -1,11 +1,11 @@
 
 {
     "bot-name": "BWB-XMD_BOT",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Charleskenya1",
+    "description": "Whiskey Sockets Baileys Whatsapp bot By princetech",
     "logo": "https://files.catbox.moe/z62ts0.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://charle-ke.onrender.com/",
-    "owner-verification": "Charlesodhiamboofficiall@gmail.com",  
+    "owner-verification": "majidiabduli917@gmail.com",  
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with ey~  or get session id from here,  https://charle-ke.onrender.com/",
@@ -20,7 +20,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "CHARLESKE-XMD 𝙱𝙾𝚃"  
+      "value": "BWB-XMD 𝙱𝙾𝚃"  
     },    
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
@@ -70,7 +70,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "CHARLESKE-XMD"
+      "value": "BWB-XMD"
    }, 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
