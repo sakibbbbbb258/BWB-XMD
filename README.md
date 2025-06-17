@@ -1,7 +1,7 @@
 ## BWB XMD IS LIVE NOW
 <p align="center">  
-  <a href="https://files.catbox.moe/xv5h54.jpg">
-    <img alt="secktor docs" height="300" src="https://files.catbox.moe/xv5h54.jpg">
+  <a href="https://files.catbox.moe/ygvlzy.jpg">
+    <img alt="secktor docs" height="300" src="https://files.catbox.moe/ygvlzy.jpg">
     <h1 align="center"> 
     </h1>
   </a>
