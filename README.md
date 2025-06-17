@@ -8,7 +8,7 @@
 </p>  
 
 1. ## FORK AND STAR
-  [![Click Here](https://img.shields.io/badge/âž¤Click-Here-white.svg)](https://github.com/PRINCETECH19/BWB-XMD_/fork)
+  [![Click Here](https://img.shields.io/badge/Click-Here-white.svg)](https://github.com/PRINCETECH19/BWB-XMD_/fork)
 
 
 
