@@ -45,7 +45,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃❍┃▸  *ʀᴀᴍ* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┃❍│▸  *ʀᴜɴɴɪɴɢ ᴏɴ* : ${os.platform()}
 ┃❍│▸  *ᴏᴡɴᴇʀ* :  ${s.OWNER_NAME}
-┃❍│▸  *ᴅᴇᴠᴇʟᴏᴘᴇʀ* : ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ
+┃❍│▸  *ᴅᴇᴠᴇʟᴏᴘᴇʀ* : Prince
 ┃❍│▸  *ᴛɪᴍᴇᴢᴏɴᴇ* : ${s.TZ}
 ┃❍╰───────────────
 ╰━━━━━━━━━━━━━━━┈⊷
@@ -86,7 +86,7 @@ let menuMsg = `
         externalAdReply: {
           title: "BWB X𝐌𝐃 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄",
           body: "Follow my channel for more updates",
-          thumbnailUrl: "https://files.catbox.moe/yedfbr.jpg",
+          thumbnailUrl: "https://files.catbox.moe/ygvlzy.jpg",
           sourceUrl: conf.GURL,
           mediaType: 1,
             renderLargerThumbnail: true,
