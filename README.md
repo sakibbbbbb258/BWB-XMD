@@ -31,9 +31,10 @@
   <a href="https://render.com?referralCode=usJR_h">
     <img src="https://img.shields.io/badge/DEPLOY NOW-render?style=for-the-badge&logo=render&logoColor=dark" width="220" height="38.45" />
   </a>
-  ### 🔺DELOY TALKDROVE
+    
+  ## 🔺DELOY TALKDROVE
 
   <p align="center">
   <a href="https://host.talkdrove.com/auth/signup?ref=7D90F312)">
-    <img src="https://img.shields.io/badge/DEPLOY TALK DROVE-talkdrove?style=for-the-badge&logo=talkdrove&logoColor=white" width="220" height="38.45" />
+    <img src="https://img.shields.io/badge/DEPLOY TALK DROVE-talkdrove?style=for-the-badge&logo=talkdrove&logoColor=green" width="220" height="38.45" />
   </a>
