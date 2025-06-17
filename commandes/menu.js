@@ -35,7 +35,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   ╭━━━《 *𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃* 》━━━┈⊷
+   ╭━━━《 *BWB X𝐌𝐃* 》━━━┈⊷
 ┃❍╭──────────────
 ┃❍│▸  *ᴅᴀᴛᴇ*: ${date}
 ┃❍│▸  *ᴛɪᴍᴇ ɴᴏᴡ*: ${temps}
@@ -50,12 +50,12 @@ const date = moment().format('DD/MM/YYYY');
 ┃❍╰───────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 
-> 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐓𝐄𝐂𝐇\n${readmore}`;
+> PRINCE 𝐓𝐄𝐂𝐇\n${readmore}`;
     
     
 let menuMsg = `
 
- *𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒*`;
+ *BWB X𝐌𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒*`;
 
     for (const cat in coms) {
         menuMsg += ` ╭──────✣ *${cat}* ✣─────︎⊷⊷`;
@@ -81,10 +81,10 @@ let menuMsg = `
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363302677217436@newsletter',
-              newsletterName: '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃',
+              newsletterName: 'BWB X𝐌𝐃',
               serverMessageId: 143},
         externalAdReply: {
-          title: "𝐓𝐇𝐄 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄",
+          title: "BWB X𝐌𝐃 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄",
           body: "Follow my channel for more updates",
           thumbnailUrl: "https://files.catbox.moe/yedfbr.jpg",
           sourceUrl: conf.GURL,
@@ -111,10 +111,10 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363302677217436@newsletter',
-              newsletterName: '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃',
+              newsletterName: 'BWB X𝐌𝐃',
               serverMessageId: 143},
         externalAdReply: {
-          title: "𝐓𝐇𝐄 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄",
+          title: "BWB X𝐌𝐃 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄",
           body: "Follow my channel for more updates",
           thumbnailUrl: "https://files.catbox.moe/yedfbr.jpg",
           sourceUrl: conf.GURL,
@@ -139,10 +139,10 @@ else {
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363302677217436@newsletter',
-              newsletterName: '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃',
+              newsletterName: 'BWB X𝐌𝐃',
               serverMessageId: 143},
         externalAdReply: {
-          title: "𝐓𝐇𝐄 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐌𝐃 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄",
+          title: "BWB X𝐌𝐃 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄",
           body: "Follow my channel for more updates",
           thumbnailUrl: "https://files.catbox.moe/yedfbr.jpg",
           sourceUrl: conf.GURL,
