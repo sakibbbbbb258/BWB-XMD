@@ -22,6 +22,10 @@
 
 ## 🔋DEPLOY HEROKU
 
+   <p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/PRINCETECH19/BWB-XMD_">
+    <img src="https://img.shields.io/badge/DEPLOY ON HEROKU -FFFFFF?style=for-the-badge&logo=heroku&logoColor=blue" width="250">
+  </a>
 
   ### 🌐DEPLOY RAILWAY
   <p align="center">
