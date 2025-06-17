@@ -52,4 +52,4 @@
 ## Koyeb:**  
   [![Click Here](https://img.shields.io/badge/Click-Here-green.svg)](https://koyeb.com)
 
-## PRINCE C.E.O OF PRINCE XMD AND BWB XMD.HAVEN TECH.LOFT XMD.
+## PRINCE C.E.O OF PRINCE XMD AND BWB XMD.THANKS HAVEN TECH.LOFT XMD.
