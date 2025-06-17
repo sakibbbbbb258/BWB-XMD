@@ -3,3 +3,13 @@
 
 1. ## FORK AND STAR
 
+
+
+
+## GET SESSION
+
+<p align="left">
+  <a href="https://b-w-b-session-id.onrender.com">
+    <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-neonred?style=for-the-badge&logo=bwb" width="220" height="38.45"/>
+  </a>
+</p>
