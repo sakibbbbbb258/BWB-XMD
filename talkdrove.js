@@ -2,7 +2,7 @@
 {
     "bot-name": "BWB-XMD_BOT",
     "description": "Whiskey Sockets Baileys Whatsapp bot By princetech",
-    "logo": "https://files.catbox.moe/z62ts0.jpg",
+    "logo": "https://files.catbox.moe/ygvlzy.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://charle-ke.onrender.com/",
     "owner-verification": "majidiabduli917@gmail.com",  
@@ -20,7 +20,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "BWB-XMD 𝙱𝙾𝚃"  
+      "value": "BWB-XMD"  
     },    
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
@@ -60,12 +60,12 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "®charleske"
+      "value": "PRINCE"
    }, 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254759626063"
+      "value": "255763834140"
    }, 
     "BOT_NAME": {
       "description": "Type here the bot name.",
