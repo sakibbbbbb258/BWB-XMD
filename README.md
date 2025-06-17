@@ -13,3 +13,9 @@
     <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-neonred?style=for-the-badge&logo=bwb" width="220" height="38.45"/>
   </a>
 </p>
+
+## DEPLOY HEROKU
+<p align="center">
+  <a href="https://github.com/PRINCETECH19/BWB-XMD_">
+    <img src="https://img.shields.io/badge/DEPLOY NOW-blue?style=for-the-badge&logo=heroku&logoColor=red" width="220" height="38.45" />
+  </a> 
