@@ -80,11 +80,11 @@ let menuMsg = `
           forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: '120363302677217436@newsletter',
+              newsletterJid: '120363398106360290@newsletter',
               newsletterName: 'BWB X𝐌𝐃',
               serverMessageId: 143},
         externalAdReply: {
-          title: "BWB X𝐌𝐃 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄",
+          title: "BWB X𝐌𝐃 ",
           body: "Follow my channel for more updates",
           thumbnailUrl: "https://files.catbox.moe/ygvlzy.jpg",
           sourceUrl: conf.GURL,
@@ -110,13 +110,13 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
           forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: '120363302677217436@newsletter',
+              newsletterJid: '120363398106360290@newsletter',
               newsletterName: 'BWB X𝐌𝐃',
               serverMessageId: 143},
         externalAdReply: {
-          title: "BWB X𝐌𝐃 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄",
+          title: "BWB X𝐌𝐃 ",
           body: "Follow my channel for more updates",
-          thumbnailUrl: "https://files.catbox.moe/yedfbr.jpg",
+          thumbnailUrl: "https://files.catbox.moe/ygvlzy.jpg",
           sourceUrl: conf.GURL,
           mediaType: 1,
             renderLargerThumbnail: true,
@@ -138,13 +138,13 @@ else {
           forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: '120363302677217436@newsletter',
+              newsletterJid: '120363398106360290@newsletter',
               newsletterName: 'BWB X𝐌𝐃',
               serverMessageId: 143},
         externalAdReply: {
-          title: "BWB X𝐌𝐃 𝐌𝐔𝐋𝐓𝐈𝐃𝐄𝐕𝐈𝐂𝐄",
+          title: "BWB X𝐌𝐃 ",
           body: "Follow my channel for more updates",
-          thumbnailUrl: "https://files.catbox.moe/yedfbr.jpg",
+          thumbnailUrl: "https://files.catbox.moe/ygvlzy.jpg",
           sourceUrl: conf.GURL,
           mediaType: 1,
             renderLargerThumbnail: true
