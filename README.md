@@ -14,19 +14,19 @@
   </a>
 </p>
 
-## DEPLOY HEROKU
+## 🔋DEPLOY HEROKU
 <p align="center">
   <a href="https://github.com/PRINCETECH19/BWB-XMD_">
     <img src="https://img.shields.io/badge/DEPLOY NOW-blue?style=for-the-badge&logo=heroku&logoColor=red" width="220" height="38.45" />
   </a> 
 
-  ### DEPLOY RAILWAY
+  ### 🌐DEPLOY RAILWAY
   <p align="center">
   <a href="https://railway.com?referralCode=usJR_h">
     <img src="https://img.shields.io/badge/DEPLOY NOW-railway?style=for-the-badge&logo=railway&logoColor=blue" width="220" height="38.45" />
   </a>
 
-  ##DEPLOY RENDER
+  ### ☠️DEPLOY RENDER
   <p align="center">
   <a href="https://render.com?referralCode=usJR_h">
     <img src="https://img.shields.io/badge/DEPLOY NOW-render?style=for-the-badge&logo=render&logoColor=dark" width="220" height="38.45" />
