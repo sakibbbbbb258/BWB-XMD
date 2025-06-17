@@ -1,5 +1,11 @@
 ## BWB XMD IS LIVE NOW
-![_31d8f6eb-5de9-49d6-ba8d-dafae5c172a1](https://github.com/user-attachments/assets/41cdba80-10c4-434d-a4c6-b86ae0f92982)
+<p align="center">  
+  <a href="https://files.catbox.moe/xv5h54.jpg">
+    <img alt="secktor docs" height="300" src="https://files.catbox.moe/xv5h54.jpg">
+    <h1 align="center"> 
+    </h1>
+  </a>
+</p>  
 
 1. ## FORK AND STAR
 
