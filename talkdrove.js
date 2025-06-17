@@ -4,7 +4,7 @@
     "description": "Whiskey Sockets Baileys Whatsapp bot By princetech",
     "logo": "https://files.catbox.moe/ygvlzy.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://charle-ke.onrender.com/",
+    "documentation-link": "https://b-w-b-session-id.onrender.com",
     "owner-verification": "majidiabduli917@gmail.com",  
     "env": {
       "SESSION_ID": {
