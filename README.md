@@ -48,5 +48,5 @@
 
 
   <p align="center">
-  <a href="https://koyeb.com)">
+  <a href="https://koyeb.com">
     <img src="https://img.shields.io/badge/DEPLOY KOYEB-koyeb?style=for-the-badge&logo=koyeb&logoColor=green" width="220" height="38.45" 
