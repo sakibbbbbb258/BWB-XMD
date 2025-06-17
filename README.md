@@ -38,3 +38,9 @@
   <a href="https://host.talkdrove.com/auth/signup?ref=7D90F312)">
     <img src="https://img.shields.io/badge/DEPLOY TALK DROVE-talkdrove?style=for-the-badge&logo=talkdrove&logoColor=green" width="220" height="38.45" />
   </a>
+
+ **ToyStack:**  
+  [![Click Here](https://img.shields.io/badge/âž¤Click-Here-white.svg)](https://toystack.ai)
+
+- **Koyeb:**  
+  [![Click Here](https://img.shields.io/badge/âž¤Click-Here-green.svg)](https://koyeb.com)
