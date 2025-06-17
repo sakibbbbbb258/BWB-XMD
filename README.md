@@ -40,14 +40,9 @@
   </a>
 
  **ToyStack:**  
-  [![Click Here](https://img.shields.io/badge/âž¤Click-Here-white.svg)](https://toystack.ai)
-## DEPLOY TOYSTACK
+  [![Click Here](https://img.shields.io/badge/âž¤Click-Here-white.svg)](https://toystack.ai) 
 
-  <p align="center">
-  <a href="https://toystack.ai)">
-    <img src="https://img.shields.io/badge/DEPLOY TOYSTACK-talkdrove?style=for-the-badge&logo=discord &logoColor=red" width="220" height="38.45" 
-
-## 🤖DEPLOY KOYEB
+## DEPLOY KOYEB
   <p align="center">
   <a href="https://koyeb.com">
     <img src="https://img.shields.io/badge/DEPLOY KOYEB-koyeb?style=for-the-badge&logo=koyeb&logoColor=green" width="220" height="38.45" 
