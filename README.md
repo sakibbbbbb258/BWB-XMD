@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&height=200&lines=MEGALODON-MD;VERSION+2025;BY+DybyTech" alt="Typing SVG" />
+  </a>
+</p>
+  
+--- 
+
+<a><img src='https://files.catbox.moe/nzc6xk.jpg'/></a>
 
 >1.FORK THE REPO 
 [![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Princetech-bwb/BWB-XMD/fork)
