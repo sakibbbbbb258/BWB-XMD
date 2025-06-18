@@ -3,9 +3,6 @@
 [![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Princetech-bwb/BWB-XMD/fork)
 
 
-### GET.SESSION ID 
-[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-blue?style=for-the-badge&logo=render)](https://b-w-b-session-id.onrender.com)
-
 
 > **1. PAIR CODE SESSION ID**
 
