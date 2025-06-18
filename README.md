@@ -15,11 +15,11 @@
 
 ---
 
- <h4l3 align="">1. HEROKU</h3>
+ >h4l3 align="">1. HEROKU</h3>
 <p style="text-align: center; font-size: 1.2em;">
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DybyTech/MEGALODON-MD)
+>[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Princetech-bwb/BWB-XMD)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
