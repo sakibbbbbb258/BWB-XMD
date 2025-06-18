@@ -4,7 +4,7 @@
 
 
 
-> **1. PAIR CODE SESSION ID**
+> **2. PAIR CODE SESSION ID**
 
 <a href='https://b-w-b-session-id.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
@@ -15,7 +15,7 @@
 
 ---
 
-### <h4 align="">1. HEROKU</h4>
+ <h4l3 align="">1. HEROKU</h3>
 <p style="text-align: center; font-size: 1.2em;">
 
 
