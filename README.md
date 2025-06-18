@@ -6,7 +6,7 @@
   
 --- 
 
-<a><img src='https://files.catbox.moe/nzc6xk.jpg'/></a>
+<a><img src='https://files.catbox.moe/6xk8eh.jpg'/></a>
 
 >1.FORK THE REPO 
 [![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Princetech-bwb/BWB-XMD/fork)
