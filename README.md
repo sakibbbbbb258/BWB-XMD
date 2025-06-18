@@ -1,4 +1,6 @@
 
+### 1.FORK THE REPO 
+[![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Mrhanstz/HANS-XMD_V2/fork)
 
 ### <h4 align="">5. RENDER</h4>
 <p style="text-align: center; font-size: 1.2em;">
