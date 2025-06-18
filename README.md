@@ -1,10 +1,4 @@
 
-### <h4 align="">1. HEROKU</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Princetech-bwb/BWB-XMD)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">5. RENDER</h4>
 <p style="text-align: center; font-size: 1.2em;">
