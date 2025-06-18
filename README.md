@@ -7,17 +7,6 @@
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-blue?style=for-the-badge&logo=render)](https://b-w-b-session-id.onrender.com)
 
 
-###
-<h1 align="center">  DEPLOY TO HEROKU NOW
-
-
-
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/FREDI_ADAMS/tree/main)
-
-<br>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
 ### <h4 align="">5. RENDER</h4>
 <p style="text-align: center; font-size: 1.2em;">
