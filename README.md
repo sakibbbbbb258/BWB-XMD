@@ -3,7 +3,7 @@
 [![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Princetech-bwb/BWB-XMD/fork)
 
 ### GET.SESSION ID 
-[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-xmd-pair-v3.onrender.com)
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-blue?style=for-the-badge&logo=render)](https://hans-xmd-pair-v3.onrender.com)
 
 
 ### <h4 align="">5. RENDER</h4>
