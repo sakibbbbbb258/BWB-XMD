@@ -1,4 +1,5 @@
 
+
 const { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter');
 const { zokou } = require("../framework/zokou");
 const traduire = require("../framework/traduction");
