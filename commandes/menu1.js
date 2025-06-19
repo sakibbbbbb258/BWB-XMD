@@ -31,21 +31,21 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 
     let infoMsg = `
 ╭━═「 *${s.BOT}* 」═━❂
-┃⊛╭────••••────➻
-┃⊛│◆ 𝙾𝚠𝚗𝚎𝚛 : ${s.OWNER_NAME}
-┃⊛│◆ 𝙿𝚛𝚎𝚏𝚒𝚡 : [ ${s.PREFIXE} ]
-┃⊛│◆ 𝙼𝚘𝚍𝚎 : *${mode}*
-┃⊛│◆ 𝚁𝚊𝚖  : 𝟴/𝟭𝟯𝟮 𝗚𝗕
-┃⊛│◆ 𝙳𝚊𝚝𝚎  : *${date}*
-┃⊛│◆ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
-┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : ғʀᴇᴅɪᴇ ᴛᴇᴄʜ
-┃⊛│◆ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : BMB
+┃🔋╭────••••────➻
+┃🔋│🌏 OWNER : ${s.OWNER_NAME}
+┃🔋│🤖 PREFIX : [ ${s.PREFIXE} ]
+┃🔋│🔘 𝙼ODE : *${mode}*
+┃🔋│🔅 RAM  : 𝟴/𝟭𝟯𝟮 𝗚𝗕
+┃🔋│◆ DATE  : *${date}*
+┃🔋│🌐 PLATFORM : ${os.platform()}
+┃🔋│☠️ DEVELOPER : ғprincetech
+┃🔋│⏳ COMMANDS : ${cm.length}
+┃🔋│🥇 THEME : BWB
 ┃⊛└────••••────➻
 ╰─━━━━══──══━━━❂\n${readmore}
 `;
 
-    let menuMsg = `𝙱.𝙼.𝙱-𝚇𝙼𝙳 𝙲𝚖𝚍`;
+    let menuMsg = `𝙱W𝙱-𝚇𝙼𝙳 `;
     
     for (const cat in coms) {
         menuMsg += `
@@ -62,7 +62,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     }
     
     menuMsg += `
-> Made By 𝙱.𝙼.𝙱-𝚇𝙼𝙳\n`;
+> Made By prince\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
@@ -71,10 +71,10 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             contextInfo: {
                 mentionedJid: [senderName],
                 externalAdReply: {
-                    title: "B.M.B-TECH MENU LIST",
+                    title: "B.W.B-XMD MENU LIST",
                     body: "Dont worry bro I have more tap to follow",
-                    thumbnailUrl: "https://files.catbox.moe/ho5pgt.jpg",
-                    sourceUrl: "https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z",
+                    thumbnailUrl: "https://files.catbox.moe/6xk8eh.jpg",
+                    sourceUrl: "https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
