@@ -33,7 +33,7 @@ Powered by BWB-XMD`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   CHARLES-VMD║
+║   BWB XMD║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
