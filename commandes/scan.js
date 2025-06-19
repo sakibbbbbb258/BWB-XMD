@@ -125,14 +125,14 @@ const date = moment().format('DD/MM/YYYY');
    * IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/PRINCETECH19/BWB-XMD_
+> https://github.com/Princetech-bwb/BWB-XMD
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610
 
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/PRINCETECH19/BWB-XMD_
+> https://github.com/Princetech-bwb/BWB-XMD
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV* : *bwbxmd*
