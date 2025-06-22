@@ -5,7 +5,7 @@ const {
 const fs = require('fs-extra');
 
 zokou({
-  nomCom: 'vcf1',
+  nomCom: 'vcf',
   categorie: "Group",
   reaction: '⚪'
 }, async (zk, message, context) => {
