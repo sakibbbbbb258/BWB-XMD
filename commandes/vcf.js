@@ -55,7 +55,7 @@ zokou({
       document: fs.readFileSync(filePath),
       mimetype: 'text/vcard',
       fileName: `${groupMetadata.subject}.vcf`,
-      caption: `VCF for ${groupMetadata.subject}\nTotal Contacts: ${groupMetadata.participants.length}\n*KEEP USING BMB-XMD*`
+      caption: `VCF for ${groupMetadata.subject}\nTotal Contacts: ${groupMetadata.participants.length}\n*KEEP USING BWB-XMD*`
     });
 
     // Clean up
