@@ -39,7 +39,7 @@ zokou({
     }
 
     // Notify user
-    repondre(`A moment, *BMB-TECH* is compiling ${groupMetadata.participants.length} contacts into a VCF file...`);
+    repondre(`A moment, *BWB-XMD* is compiling ${groupMetadata.participants.length} contacts into a VCF file...`);
 
     // Ensure the file is properly created
     const filePath = './contacts.vcf';
