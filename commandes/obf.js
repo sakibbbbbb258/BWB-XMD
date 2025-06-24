@@ -15,7 +15,7 @@ zokou(
       console.log('DEBUG - obfuscate triggered:', { arg, nomAuteurMessage });
 
       if (!arg[0]) {
-        return repondre(`𝐓𝐎𝐗𝐈𝐂-𝐌𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ HEY ${nomAuteurMessage}, DON’T BE A NOOB! Give me some JavaScript code, like .obfuscate console.log('Hello World!')! 😡\n◈━━━━━━━━━━━━━━━━◈`);
+        return repondre(`BWB-X𝐌𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ HEY ${nomAuteurMessage}, DON’T BE A NOOB! Give me some JavaScript code, like .obfuscate console.log('Hello World!')! 😡\n◈━━━━━━━━━━━━━━━━◈`);
       }
 
       const code = arg.join(' ').trim();
@@ -26,7 +26,7 @@ zokou(
       const data = response.data;
 
       if (!data.success || !data.encrypted_code) {
-        return repondre(`𝐓𝐎𝐗𝐈𝐂-𝐌𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ YIKES, ${nomAuteurMessage}! Obfuscation failed: ${data.error || 'No encrypted code'}! Try better code! 😣\n◈━━━━━━━━━━━━━━━━◈`);
+        return repondre(`BWB-XMD\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ YIKES, ${nomAuteurMessage}! Obfuscation failed: ${data.error || 'No encrypted code'}! Try better code! 😣\n◈━━━━━━━━━━━━━━━━◈`);
       }
 
       // Truncate if too long for WhatsApp (4096 char limit)
@@ -38,15 +38,15 @@ zokou(
       await zk.sendMessage(
         dest,
         {
-          text: `𝐓𝐎𝐗𝐈𝐂-𝐌𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ BOOM, ${nomAuteurMessage}! Your code’s now a cryptic mess! 🔥\n│❒ Obfuscated Code:\n${obfuscatedCode}\n│❒ Powered by xh_clinton\n◈━━━━━━━━━━━━━━━━◈`,
-          footer: `Hey ${nomAuteurMessage}! I'm Toxic-MD, created by 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧 😎`,
+          text: `BWB-XMD\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ BOOM, ${nomAuteurMessage}! Your code’s now a cryptic mess! 🔥\n│❒ Obfuscated Code:\n${obfuscatedCode}\n│❒ Powered by Prince\n◈━━━━━━━━━━━━━━━━◈`,
+          footer: `Hey ${nomAuteurMessage}! I'm BWB-XMD, created by prince`,
         },
         { quoted: ms }
       );
 
     } catch (e) {
       console.error('Obfuscate error:', e);
-      await repondre(`𝐓𝐎𝐗𝐈𝐂-𝐌𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ TOTAL MELTDOWN, ${nomAuteurMessage}! Something broke: ${e.message} 😡 Fix it or scram!\n◈━━━━━━━━━━━━━━━━◈`);
+      await repondre(`BWB-X𝐌𝐃\n\n◈━━━━━━━━━━━━━━━━◈\n│❒ TOTAL MELTDOWN, ${nomAuteurMessage}! Something broke: ${e.message} 😡 Fix it or scram!\n◈━━━━━━━━━━━━━━━━◈`);
     }
   }
 );
